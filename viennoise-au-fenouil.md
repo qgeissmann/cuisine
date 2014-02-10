@@ -44,8 +44,14 @@ On peut torréfier les graines de fenouil. Les incorporer en fin de pétrissage.
 
 --- 
 
+##Images
+![alt text](http://la-bonaventure.com/cuisine/fin-du-petrissage.jpg "Fin du petrissage")
+
+---
+
 ## Idées d'amelioration
 
+Ajouter du curcuma pour une belle couleur jaune. 
 ...
 
 ---
