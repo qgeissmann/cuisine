@@ -22,11 +22,10 @@ J'ai rajouté 80g de farine car la pâte était trop hydratée. Cela dépend de 
 
 ##Données boulangères
 
-Taux d'hydratation : 62% 
-Texture de la pâte après petrissage : Bâtarde et lisse *fesses de bébé*
-
-Temps de pétrissage : 10 à 15 min
-Température de la pâte en fin de pétrissage : 22°C
+* Taux d'hydratation : 62% 
+* Texture de la pâte après petrissage : Bâtarde et lisse *fesses de bébé*
+* Temps de pétrissage : 10 à 15 min
+* Température de la pâte en fin de pétrissage : 22°C
 
 ---
 
