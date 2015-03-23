@@ -21,8 +21,6 @@ Quiche
 * Ingredients:
     * Pâte brisée (see above)
     * 700g mushroom,
-    * 200g mature cheddar
-    * 200g mature cheddar
     * 200g *crème fraîche*
     * 3 red onions
     * 3 eggs
