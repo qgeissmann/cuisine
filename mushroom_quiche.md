@@ -12,7 +12,7 @@ Mushroom quiche
 * Process:
     1. Slice butter in dice and put it at room temperature
     2. Add all the above ingredients together and mix them with your fingers! Ensure no large lumps of unmixed butter remain.   
-    3. Roll the doe quite thin. It should make, at least, a 30cm diameter disk.
+    3. Roll the dough quite thin. It should make, at least, a 30cm diameter disk.
     4. Precook it in the a 180C oven (10min?) -- mind the large air bubbles!
 
 Quiche
@@ -39,7 +39,7 @@ Quiche
     5. The mushroom should loose a lot of water during the process. **Remove it** and keep it on the side.
     6. When the mushroom start tasting wonderfully roasted, add the onions, along with the water that was lost in 5.
     7. Cook until the onions are soft, stirring from time to time.
-    8. Leave the pan to cool down (I would suggest to prepare the doe meanwhile)
+    8. Leave the pan to cool down (I would suggest to prepare the dough meanwhile)
     9. Add grated cheese, *crème fraîche*, eggs and -- a hint of -- chilly pepper to the cooled down preparation, and mix well.
     10. Pour the mix into the  -- ideally slightly pre-cooked -- base.
     11. Add a bit of parsley and extra grated cheese on the top!
