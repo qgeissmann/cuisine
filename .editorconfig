@@ -1,0 +1,68 @@
+# EditorConfig is awesome: http://EditorConfig.org
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+indent_style = space
+indent_size = 2
+
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.html]
+indent_style = tab
+indent_size = 4
+
+[*.html.erb]
+indent_style = tab
+indent_size = 4
+
+[*.css]
+indent_style = space
+indent_size = 4
+
+[*.scss]
+indent_style = space
+indent_size = 2
+
+[*.js]
+indent_style = space
+indent_size = 2
+
+[{bower.json,package.json,.travis.yml}]
+indent_style = space
+indent_size = 2
+
+[*.rb]
+indent_style = space
+indent_size = 2
+
+[*.yml]
+indent_style = space
+indent_size = 2
+
+[Rakefile]
+indent_style = space
+indent_size = 2
+
+[Gemfile*]
+indent_style = space
+indent_size = 2
+
+[config.ru]
+indent_style = space
+indent_size = 2
+
+[*.rake]
+indent_style = space
+indent_size = 2
+
+[*.vue]
+indent_style = space
+indent_size = 2
