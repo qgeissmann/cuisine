@@ -3,3 +3,5 @@ author: Quentin Geissmann
 date: 2016-09-24
 ingredients:
   "pate brisee": 1 (i.e. 150g of flour)
+---
+voila
