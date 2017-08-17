@@ -25,11 +25,11 @@
 3. Put the flour on top
 4. Add the salt on top of the flour (the yeast will suffer if it touches the salt directly, so we buffer with flour)
 5. Knead for 15min (you should not need to add more flour or water)
-6. Leave the dough to rise for around 8h at RT.
-7. Cut the dough in several loafs. and knead them individually
+6. Leave the dough to rise for around 8h at RT
+7. Cut the dough in several loafs and knead them individually (no more than 2min)
 8. Second proof them on a board that you covered with a lot of flour
 9. After 1-2h, add spread flour on the loafs, and make deep incisions (with a very sharp knife/razor blade)    
-10. Slide the loafs in the over (see baking detail below).
+10. Slide the loafs in the over (see baking detail below)
 
 ## Baking
 
