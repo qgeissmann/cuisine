@@ -8,7 +8,7 @@ Mushroom quiche
     * 150g flour
     * 75g butter
     * 40g milk
-    * few crystals salt
+    * few salt crystals
 * Process:
     1. Slice butter in dice and put it at room temperature
     2. Add all the above ingredients together and mix them with your fingers! Ensure no large lumps of unmixed butter remain.   
