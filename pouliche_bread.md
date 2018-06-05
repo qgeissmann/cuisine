@@ -36,7 +36,7 @@
 Important points:
 
 * The oven should be preheated above 220C (ideally 240C)
-* The bread is baked on heavy stones (which increase thermal mass of the oven)
+* The bread is baked on heavy stones (which increases thermal mass of the oven)
 * Before putting the bread on, throw a large cup of boiling water in the bottom of the oven. This is known as "coup de buee" and results in a better bread crust.
 * Better results can be obtained (especially for large loafs), using the "four tombant" technique: turn-off (or down) the oven after a few minutes, so that temperature decays slowly. This means we have a nice crust because of the high temperature in the beginning, but the bread is also cooked all the way through
 
