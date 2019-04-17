@@ -14,7 +14,7 @@ Ingredients
 Process
 ----------
   1. Mix salt, vinegar and water. Let the salt dissolve completely
-  2. Peel eggplants and cut them in julienne (about .5cm x .5cm x 5cm)
+  2. Peel eggplants and cut them in julienne (about 0.5cm x 0.5cm x 5cm)
   3. Marinate eggplants 24h
   4. After 24h, remove the eggplants from the mix and let them rest and drain under a heavy weight for 24h
   5. After 24h (for the second time) you can further continue the drying process with sundrying or dehydrater
