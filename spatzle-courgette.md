@@ -1,5 +1,5 @@
 
-#Spatzle aux courgettes (*Pâtes alsaciennes*)
+# Spatzle aux courgettes (*Pâtes alsaciennes*)
 
 ---
 
@@ -17,7 +17,7 @@ Pour environ 4 baguettes courtes :
 On peut mettre un peu de lait pour remplacer une partie de l'eau
 ---
 
-##Étapes
+## Étapes
 
 1. Faire chauffer un chaudron d'eau salée.
 2. Pendant ce temps, on râpe les courgettes assez finement puis on les réduit à la pôele : 5 minutes à feu fort avec un peu de sel.
@@ -30,7 +30,7 @@ On peut mettre un peu de lait pour remplacer une partie de l'eau
 
    --- 
 
-##Images
+## Images
 
 ---
 
