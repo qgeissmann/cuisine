@@ -17,3 +17,5 @@ Ne pas les sortir directement, Il faut laisser le four la porte entre-ouverte af
 
 
 lien utile: [lien 1](https://www.mercotte.fr/2005/06/04/ma-specialite-les-meringues/)
+
+Chambrer les blancs température pièce. Tamiser le sucre glace dans un grand bol. Monter à la main les blancs, lorsqu'il commence à mousser et à prendre du corps, incorporer le sucre semoule en petite quantité en plusieurs fois, tout en continuant de battre les oeufs. À la fin lorsque les oeufs sont battus en neige, on cherche la consistance "bec d'oiseau": ajouter le sucre glace tamisé délicatement à la maryse. Pocher le mélange et façonner les meringues avec la forme de votre choix.
